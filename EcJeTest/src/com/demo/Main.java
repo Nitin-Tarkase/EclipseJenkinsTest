@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("in main EcJe Test");
 		System.out.println("Second Print satement");
 		System.out.println("Third Print satement");
-		System.out.println("Fourth Print satement");
+		System.out.println("4th Print satement");
 	}
 
 }
